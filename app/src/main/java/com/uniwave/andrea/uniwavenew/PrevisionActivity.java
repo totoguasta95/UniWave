@@ -18,7 +18,7 @@ import android.widget.ListAdapter;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 
-import com.example.andrea.uniwavenew.R;
+import com.uniwave.andrea.uniwavenew.R;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

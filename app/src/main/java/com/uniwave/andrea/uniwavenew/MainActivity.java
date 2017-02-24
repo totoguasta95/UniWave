@@ -15,7 +15,7 @@ import android.view.View;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
-import com.example.andrea.uniwavenew.R;
+import com.uniwave.andrea.uniwavenew.R;
 
 /*Copyright [2017] [The Alliance]
 

@@ -3,7 +3,7 @@ package com.uniwave.andrea.uniwavenew;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.example.andrea.uniwavenew.R;
+import com.uniwave.andrea.uniwavenew.R;
 
 /*Copyright [2017] [The Alliance]
 
