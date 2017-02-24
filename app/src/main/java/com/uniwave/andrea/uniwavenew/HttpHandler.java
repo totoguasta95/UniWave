@@ -1,4 +1,4 @@
-package com.example.andrea.uniwavenew;
+package com.uniwave.andrea.uniwavenew;
 
 /**
  * Created by Andrea on 11/11/2016.

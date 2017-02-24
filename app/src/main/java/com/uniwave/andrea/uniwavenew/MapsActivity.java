@@ -1,8 +1,7 @@
-package com.example.andrea.uniwavenew;
+package com.uniwave.andrea.uniwavenew;
 
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
-import android.widget.Toast;
 
 import com.example.andrea.uniwavenew.R;
 import com.google.android.gms.maps.CameraUpdate;

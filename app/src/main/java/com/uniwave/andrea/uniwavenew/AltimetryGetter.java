@@ -1,4 +1,4 @@
-package com.example.andrea.uniwavenew;
+package com.uniwave.andrea.uniwavenew;
 
 import android.app.ProgressDialog;
 import android.content.Context;

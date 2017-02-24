@@ -22,7 +22,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".MainActivity"
+            android:name="com.uniwave.andrea.uniwavenew.MainActivity"
             android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -43,18 +43,18 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name=".MapsActivity"
+            android:name="com.uniwave.andrea.uniwavenew.MapsActivity"
             android:label="@string/title_activity_maps"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name=".PrevisionActivity"
+            android:name="com.uniwave.andrea.uniwavenew.PrevisionActivity"
             android:label="Previsioni"
             android:theme="@style/AppTheme.NoActionBar"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name=".AboutUsActivity"
+            android:name="com.uniwave.andrea.uniwavenew.AboutUsActivity"
             android:screenOrientation="portrait" >
         </activity>
     </application>

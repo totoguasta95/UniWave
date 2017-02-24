@@ -1,4 +1,4 @@
-package com.example.andrea.uniwavenew;
+package com.uniwave.andrea.uniwavenew;
 
 import com.google.android.gms.maps.model.LatLng;
 

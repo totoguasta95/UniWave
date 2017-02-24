@@ -1,4 +1,4 @@
-package com.example.andrea.uniwavenew;
+package com.uniwave.andrea.uniwavenew;
 
 /**
  * Created by Andrea on 06/02/2017.
@@ -20,7 +20,6 @@ import android.os.Bundle;
 import android.os.IBinder;
 import android.provider.Settings;
 import android.util.Log;
-import android.widget.Toast;
 
 /*Copyright [2017] [The Alliance]
 

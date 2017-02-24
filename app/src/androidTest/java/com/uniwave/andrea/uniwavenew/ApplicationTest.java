@@ -1,4 +1,4 @@
-package com.example.andrea.uniwavenew;
+package com.uniwave.andrea.uniwavenew;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

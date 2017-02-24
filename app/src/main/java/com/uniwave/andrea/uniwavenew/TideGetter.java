@@ -1,4 +1,4 @@
-package com.example.andrea.uniwavenew;
+package com.uniwave.andrea.uniwavenew;
 
 import android.app.ProgressDialog;
 import android.content.Context;
@@ -13,8 +13,6 @@ import org.json.JSONObject;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
-import static com.google.android.gms.internal.zzip.runOnUiThread;
 
 /*Copyright [2017] [The Alliance]
 
