@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:text="THE ALLIANCE"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#000000" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal"
+        android:paddingBottom="@dimen/activity_horizontal_margin"
+        android:src="@drawable/lion" />
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="4dp"
+            android:paddingLeft="4dp"
+            android:paddingRight="4dp"
+            android:paddingEnd="4dp"
+            android:text="CEVID - Centro Veneto di Innovazione Digitale\nper Cittadini, Imprese e Pubblica Amministrazione.\nUniversità Ca&apos; Foscari &amp; Regione del Veneto\n\nAzione 1: Open Data della Regione Veneto:\ndal paradigma DaaS per la fruizione dei dati alle smart app\n\ncoordinatore: prof. A.Cortesi\n\napp progettata e realizzata da:\n- Andrea Zennaro\n- Antonio Guastavino\n- Matteo Toffolo\n- Vladimyr Tarquini\n\nCorso di laurea in Informatica - Università Ca&apos; Foscari\n\nOpen data utilizzati:\n- Centro maree\n- Sedi Ca' Foscari\n- Venice Project Center(Altimetrie)\n\nIl logo del nostro gruppo è un marchio registrato Blizzard Entertainment.\n\nL'immagine della home page è stata presa dal sito www.clker.com"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            android:textSize="16dp" />
+
+    </ScrollView>
+
+</LinearLayout>
